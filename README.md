@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @devasyatrivedi
-- 👀 I’m interested in game dev
-- 🌱 I’m currently learning godot
-- 💞️ I’m looking to collaborate on game dev
+- 👀 I’m interested in game dev, appdevelopment
+- 🌱 I’m currently learning godot, nodejs, react native, 
+- 💞️ I’m looking to collaborate on game dev, app developement, 
 - 📫 How to reach me devasyastrivedi@hotmail.com
 - 😄 Pronouns: dev
 - ⚡ Fun fact: mistakes make profit, sucess makes rich
